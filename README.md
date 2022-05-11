@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @ovictorprata and I'm an intern developer at Buser and either system analyst and developer's student.
+- 👋 Hi, I’m @ovictorprata and I'm either an intern developer at Buser and system analyst and developer's student.
