@@ -3,7 +3,7 @@
 - 🎲 I’m currently learning data engineer, data science, machine learning
 - ✨ I study front-end and back-end too
 - 👯 I’m looking to collaborate on analysis based on data
-- 🗨️ Let's talk on Google Meet [here]
+- 🗨️ Book 30 min conversation [here](bit.ly/40Jj88K)
 
 ##
 
