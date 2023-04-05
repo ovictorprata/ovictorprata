@@ -49,6 +49,6 @@
 
 <hr/>
 
-![Snake animation](https://github.com/huogerac/huogerac/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ovictorprata/ovictorprata/blob/output/github-contribution-grid-snake.svg)
 
 
