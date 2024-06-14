@@ -1,8 +1,7 @@
 ### 👋 Hi there, I’m Prata, welcome to my profile
 
-- 🎲 I’m currently learning data engineer, data science, machine learning
+- 🎲 I’m currently learning about data
 - ✨ I study front-end and back-end too
-- 👯 I’m looking to collaborate on analysis based on data
 - 🗨️ Book 30 min conversation [here](bit.ly/40Jj88K)
 
 ##
